@@ -1,0 +1,39 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.post {
+    border: 2px solid black;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 20px;
+  }
+
+  .subheader{
+    font-size: 30px;
+  }
+
+  .input_form{
+    display: flex;
+    flex-direction: column;
+    background-color: antiquewhite;
+    border: 2px solid black;
+    max-width: 900px;
+    margin: 30px auto;
+    padding: 15px;
+    gap: 20px;
+    border-radius: 10px;    
+  }
+  .input_form > *{
+    padding: 10px;
+    resize: none;  
+     
+  }
+
+  .input_form button{
+    align-self: flex-end;
+    width: 50%;
+    min-width: 100px;
+  }

@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.product {
+  padding: 10px;
+  margin: 10px;
+  border: 2px solid black;
+  display: flex;
+  justify-content: space-between;
+}
+
+input:focus {
+  outline: none;
+  background-color: beige;
+}
+
+.add_form {
+  display: flex;
+  flex-direction: column;
+  margin: 40px auto;
+  border: 2px solid black;
+  padding: 30px;
+  max-width: 900px;
+  background-color: aqua;
+}
+.add_form input {
+  background-color: beige;
+  margin: 20px 0;
+  padding: 10px;
+  border: 2px solid black;
+}
+
+.add_form button {
+  background-color: azure;
+  padding: 10px;
+  border: 2px solid black;
+  cursor: pointer;
+  align-self: flex-end;
+  width: 200px;
+}

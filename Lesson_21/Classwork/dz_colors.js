@@ -1,0 +1,1 @@
+/* function randInt(min, max) { let rand = min + Math.random() * (max + 1 - min); return Math.floor(rand); } randomBtn.addEventListener('click', function () { document.body.style.backgroundColor = `rgb(${randInt(0, 255)}, ${randInt(0, 255)},${randInt(0, 255)})`; });  */
