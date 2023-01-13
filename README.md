@@ -8,7 +8,7 @@
 <br>
 [HW_04](https://olenasavchuk5.github.io/TEL-RAN_JS/Lesson_04/Homework/index.html)
 
-[]()
+[HW_05](https://olenasavchuk5.github.io/TEL-RAN_JS/Lesson_05/Homework/index.html)
 []()
 []()
 []()
