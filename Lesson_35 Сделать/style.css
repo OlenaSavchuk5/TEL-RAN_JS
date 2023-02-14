@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.wrapper{
+    border: 1px solid black;
+    max-width: 900px;
+    margin: 0 auto;
+    min-height: 100vh;
+}
+
+.add_todo input{
+    padding: 10px;
+    border: 2px solid black;
+    width: 70%;
+}
+
+.add_todo button{
+    padding: 10px;
+    border: 2px solid black;
+    width: 25%;
+}
+
+.todo_container{
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.item{
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid black;
+    background-color: aqua;
+    display: flex;
+    justify-content: space-between;
+}
+
+.button {
+    width: 70px;
+    margin-right: 20px;
+}
+.done p{
+    text-decoration: line-through;
+}
