@@ -16,7 +16,7 @@
 <br>
 [HW_08](https://olenasavchuk5.github.io/TEL-RAN_JS/Lesson_08/Homework/index.html)
 <br>
-[HW_09]()
+[HW_09](https://olenasavchuk5.github.io/TEL-RAN_JS/Lesson_09/Homework/index.html)
 <br>
 [HW_10](https://olenasavchuk5.github.io/TEL-RAN_JS/Lesson_10/Homework/index.html)
 <br>
