@@ -22,7 +22,7 @@
 <br>
 [Product cards](https://olenasavchuk5.github.io/TEL-RAN_JS/Lesson_21/Homework/index.html)
 <br>
-[]()
+[Buttons random color]()
 <br>
 []()
 <br>
