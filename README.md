@@ -6,7 +6,7 @@
 <br>
 [HW_03](https://olenasavchuk5.github.io/TEL-RAN_JS/Lesson_03/Homework/index.html)
 <br>
-[Сlick on the button](https://olenasavchuk5.github.io/TEL-RAN_JS/Lesson_04/Homework/index.html)
+[HW_04](https://olenasavchuk5.github.io/TEL-RAN_JS/Lesson_04/Homework/index.html)
 <br>
 [HW_05](https://olenasavchuk5.github.io/TEL-RAN_JS/Lesson_05/Homework/index.html)
 <br>
@@ -16,7 +16,7 @@
 <br>
 [HW_08](https://olenasavchuk5.github.io/TEL-RAN_JS/Lesson_08/Homework/index.html)
 <br>
-[HW_09](https://olenasavchuk5.github.io/TEL-RAN_JS/Lesson_09/Homework/index.html)
+[Click on the button](https://olenasavchuk5.github.io/TEL-RAN_JS/Lesson_09/Homework/index.html)
 <br>
 [HW_10](https://olenasavchuk5.github.io/TEL-RAN_JS/Lesson_10/Homework/index.html)
 <br>
