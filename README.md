@@ -20,7 +20,7 @@
 <br>
 [The title will not change](https://olenasavchuk5.github.io/TEL-RAN_JS/Lesson_10/Homework/index.html)
 <br>
-[HW_11](https://olenasavchuk5.github.io/TEL-RAN_JS/Lesson_21/Homework/index.html)
+[Product cards](https://olenasavchuk5.github.io/TEL-RAN_JS/Lesson_21/Homework/index.html)
 <br>
 []()
 <br>
