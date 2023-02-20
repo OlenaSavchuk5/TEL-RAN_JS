@@ -18,7 +18,7 @@
 <br>
 [Click on the button](https://olenasavchuk5.github.io/TEL-RAN_JS/Lesson_09/Homework/index.html)
 <br>
-[HW_10](https://olenasavchuk5.github.io/TEL-RAN_JS/Lesson_10/Homework/index.html)
+[The title will not change](https://olenasavchuk5.github.io/TEL-RAN_JS/Lesson_10/Homework/index.html)
 <br>
 [HW_11](https://olenasavchuk5.github.io/TEL-RAN_JS/Lesson_21/Homework/index.html)
 <br>
