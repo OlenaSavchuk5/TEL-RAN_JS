@@ -59,3 +59,11 @@ buttonsArr.map(button => {
         background: red;
     }
 */ 
+const random = document.querySelector("#random");
+
+const get_color = () => Math.round(Math.random() * 255);
+
+random.addEventListener("click", () => {
+  document.body.style.background = `rgb(${get_color()}, ${get_color()}, ${get_color()})`;
+});
+ 

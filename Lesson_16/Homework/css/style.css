@@ -13,7 +13,7 @@
     margin: 200px auto;
     width: 300px;
     height: 150px;
-    background-color: #8bdff8;
+    background-color: hwb(212 55% 3%);
     border-radius: 10px;
 }
 
