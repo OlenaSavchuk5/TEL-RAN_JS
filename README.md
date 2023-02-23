@@ -24,6 +24,8 @@
 <br>
 [Input field and saved text](https://olenasavchuk5.github.io/TEL-RAN_JS/Lesson_16/Homework/index.html)
 <br>
+[Information cards with goods](https://olenasavchuk5.github.io/TEL-RAN_JS/Lesson_18/Homework/)
+<br>
 [Buttons random color]()
 <br>
 [Button_ input field 30.11 HW](https://olenasavchuk5.github.io/TEL-RAN_JS/Lesson_16/Homework/index.html)
