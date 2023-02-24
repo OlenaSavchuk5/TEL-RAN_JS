@@ -26,6 +26,7 @@
 <br>
 [Information cards with goods](https://olenasavchuk5.github.io/TEL-RAN_JS/Lesson_18/Homework/)
 <br>
+[Asynchronous request to the server](https://olenasavchuk5.github.io/TEL-RAN_JS/Lesson_20/Homework/index.html)
 
 [Buttons random color]()
 <br>
