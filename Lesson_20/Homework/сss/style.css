@@ -8,14 +8,14 @@
 }
 
 body {
-    background-color: #f9f3e7;
+    background-color: #f9f3e7bb;
 }
 
 .form {
     max-width: 700px;
     margin: 40px auto;
     padding: 20px;
-    background-color: #c2a698;
+    background-color: #c29898;
     border: 2px solid transparent;
     border-radius: 15px;
     display: flex;
@@ -42,7 +42,7 @@ body {
 }
 
 .card {
-    border: 2px solid #c2a698;
+    border: 2px solid #c29898;
     border-radius: 15px;
     padding: 20px;
     margin: 20px auto;
