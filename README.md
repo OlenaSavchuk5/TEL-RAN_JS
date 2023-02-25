@@ -30,7 +30,7 @@
 
 [Buttons random color]()
 <br>
-[Button_ input field 30.11 HW](https://olenasavchuk5.github.io/TEL-RAN_JS/Lesson_16/Homework/index.html)
+[]()
 <br>
 []()
 <br>
