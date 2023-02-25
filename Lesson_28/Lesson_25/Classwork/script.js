@@ -3,52 +3,54 @@ const laptops = [
         id: 1,
         name: "Acer Paradise", // acer
         img: "https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4LqQX?ver=1f00&q=90&m=6&h=705&w=1253&b=%23FFFFFFFF&f=jpg&o=f&p=140&aim=true",
-        price: 20000,
+        price: 2000,
         category: "laptop"
     },
     {
         id: 2,
         name: "HP Pavillon",
         img: "https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4LqQX?ver=1f00&q=90&m=6&h=705&w=1253&b=%23FFFFFFFF&f=jpg&o=f&p=140&aim=true",
-        price: 25000,
+        price: 2500,
         category: "laptop"
     },
     {
         id: 3,
         name: "Samsung X20",
         img: "https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4LqQX?ver=1f00&q=90&m=6&h=705&w=1253&b=%23FFFFFFFF&f=jpg&o=f&p=140&aim=true",
-        price: 40000,
+        price: 4000,
         category: "monoblock"
     },
     {
         id: 4,
         name: "Iphone 13Pro",
         img: "https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4LqQX?ver=1f00&q=90&m=6&h=705&w=1253&b=%23FFFFFFFF&f=jpg&o=f&p=140&aim=true",
-        price: 70000,
+        price: 2000,
         category: "smartphone"
     },
     {
         id: 5,
         name: "Sony TI201",
         img: "https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4LqQX?ver=1f00&q=90&m=6&h=705&w=1253&b=%23FFFFFFFF&f=jpg&o=f&p=140&aim=true",
-        price: 55000,
+        price: 900,
         category: "smartphone"
     },
     {
         id: 6,
         name: "Samsung",
         img: "https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4LqQX?ver=1f00&q=90&m=6&h=705&w=1253&b=%23FFFFFFFF&f=jpg&o=f&p=140&aim=true",
-        price: 80000,
-        category: "computer"
+        price: 4000,
+        category: "PC"
     },
     {
         id: 7,
         name: "Acer Computer M500",
         img: "https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4LqQX?ver=1f00&q=90&m=6&h=705&w=1253&b=%23FFFFFFFF&f=jpg&o=f&p=140&aim=true",
-        price: 75000,
-        category: "computer"
+        price: 2500,
+        category: "PC"
     },
 ]
+
+
 
 // [
 //     {
@@ -110,25 +112,25 @@ searchInput.addEventListener("input", (e) => {
 })
 
 // Функция фильтрация по категории
-categories.forEach(category => {
-    category.addEventListener("click", (e) => {
-        const selectedCategory = e.target.textContent // все, computer, laptop
-        // if(selectedCategory === "Все") { // все = "Все"
-        //     showProducts(laptops)
-        // } else {
-            // const filteredByCategoryProducts = laptops.filter(laptop => 
-            //         laptop.category === selectedCategory.toLowerCase()
-            //     )
-        //     showProducts(filteredByCategoryProducts)
-        // }
-        const filteredByCategoryProducts = laptops.filter(laptop => 
-            laptop.category === selectedCategory.toLowerCase()
-        )
-        selectedCategory === "Все" 
-            ?  showProducts(laptops)
-            :  showProducts(filteredByCategoryProducts)
-    })
-})
+// categories.forEach(category => {
+//     category.addEventListener("click", (e) => {
+//         const selectedCategory = e.target.textContent // все, computer, laptop
+//         // if(selectedCategory === "Все") { // все = "Все"
+//         //     showProducts(laptops)
+//         // } else {
+//             // const filteredByCategoryProducts = laptops.filter(laptop => 
+//             //         laptop.category === selectedCategory.toLowerCase()
+//             //     )
+//         //     showProducts(filteredByCategoryProducts)
+//         // }
+//         const filteredByCategoryProducts = laptops.filter(laptop => 
+//             laptop.category === selectedCategory.toLowerCase()
+//         )
+//         selectedCategory === "Все" 
+//             ?  showProducts(laptops)
+//             :  showProducts(filteredByCategoryProducts)
+//     })
+// })
 
 // Задача. Переписать конструкцию if else на тернарный оператор
 
@@ -165,8 +167,8 @@ const str = "a" // Содержится ли данная подстрока в�
 // Отфильтровать массив arr и оставить только те объекты, внутри значения свойства name 
 // которых содержится подстрока str, т.е буква a.
 // 
-const filteredNames = arr.filter(el => el.name.includes(str))
-console.log(filteredNames)
+// const filteredNames = arr.filter(el => el.name.includes(str))
+// console.log(filteredNames)
 
 /*
     ДЗ. Сделать так, чтобы при вводе пробелов, отображались все продукты
