@@ -28,7 +28,7 @@
 <br>
 [Asynchronous request to the server](https://olenasavchuk5.github.io/TEL-RAN_JS/Lesson_20/Homework/index.html)
 
-[Buttons random color]()
+[Buttons random color](https://olenasavchuk5.github.io/TEL-RAN_JS/Lesson_16/Classwork/index.html)
 <br>
 []()
 <br>
