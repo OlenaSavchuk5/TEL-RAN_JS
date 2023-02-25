@@ -171,3 +171,36 @@ console.log(filteredNames)
 /*
     ДЗ. Сделать так, чтобы при вводе пробелов, отображались все продукты
 */
+
+// Функция фильтрация по категории
+
+categories.forEach((category) => {
+    category.addEventListener("click", (e) => {
+      const selectedCategory = e.target.textContent; // все, computer, laptop
+      // if (selectedCategory === "Все") {
+      //   showProducts(laptops);
+      // } else {
+      //   const filteredByCategoryProd = laptops.filter(
+      //     (laptop) => laptop.category === selectedCategory.toLowerCase()
+      //   );
+      //   showProducts(filteredByCategoryProd);
+      // }
+  
+      const filteredByCategoryProd = laptops.filter(
+        (laptop) => laptop.category === selectedCategory.toLowerCase()
+      );
+  
+      selectedCategory === "Все"
+        ? showProducts(laptops)
+        : showProducts(filteredByCategoryProd);
+    });
+  });
+  
+  // NodeList - forEach
+  // map, filter, reduce - Array.prototype
+  
+  /*
+    querySelector() - метод, который позволяет найти первый попавшийся элемент по селектору
+    querySelectorAll() - метод, который позволяет найти все элементы по селектору
+  */
+  
