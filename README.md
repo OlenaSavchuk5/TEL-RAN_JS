@@ -28,7 +28,8 @@
 <br>
 [Asynchronous request to the server](https://olenasavchuk5.github.io/TEL-RAN_JS/Lesson_20/Homework/index.html)
 <br>
-[Application_ when clicked, the product is deleted]()
+[Application_ when clicked, the product is deleted](https://olenasavchuk5.github.io/TEL-RAN_JS/Lesson_35/Homework/scripts/)
+<br>
 [Buttons random color](https://olenasavchuk5.github.io/TEL-RAN_JS/Lesson_16/Classwork/index.html)
 <br>
 [Functionality of the Search](https://olenasavchuk5.github.io/TEL-RAN_JS/Lesson_25/Classwork/index.html)
