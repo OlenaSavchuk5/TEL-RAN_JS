@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
 * {
     margin: 0;
     padding: 0;
@@ -20,14 +21,14 @@ main {
 }
 .category {
     font-size: 20px;
+    padding: 5px;
 }
 .category:not(:last-child) {
     margin-bottom: 10px;
 }
 .category:hover {
     cursor: pointer;
-    background-color: #b0b0b0;
-    padding: 5px;
+    Color: #b0b0b0;
 }
 .products {
     display: flex;
